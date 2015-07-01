@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="400" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+	<img width="400" src="https://camo.githubusercontent.com/9cdace173cd8a48b0b633c47374c3553494e0d8f/68747470733a2f2f7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" alt="awesome">
 	<br>
 	<br>
 	<br>
